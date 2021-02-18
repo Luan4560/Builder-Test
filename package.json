@@ -11,9 +11,12 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "lottie-ios": "3.1.8",
+    "lottie-react-native": "^3.5.0",
     "react": "16.13.1",
     "react-native": "0.63.4",
     "react-native-geolocation-service": "^5.2.0",
+    "react-native-video": "^5.1.1",
     "react-vector-icons": "^0.0.1",
     "styled-components": "^5.2.1"
   },
@@ -23,6 +26,7 @@
     "@types/jest": "^25.2.3",
     "@types/react": "^17.0.2",
     "@types/react-native": "^0.63.50",
+    "@types/react-native-video": "^5.0.4",
     "@types/react-test-renderer": "^16.9.2",
     "@types/styled-components": "^5.1.7",
     "@types/styled-components-react-native": "^5.1.1",
